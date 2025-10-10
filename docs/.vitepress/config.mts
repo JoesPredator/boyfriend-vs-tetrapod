@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/boyfriend-vs-tetrapod",
   title: "中々テトラポットに登れないボーイフレンド",
   description: "あ～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～",
   themeConfig: {
