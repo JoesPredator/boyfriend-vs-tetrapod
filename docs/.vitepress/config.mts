@@ -50,7 +50,7 @@ export default defineConfig({
         {
           text: 'IDE',
           items: [
-            { text: 'Markdown Examples', link: '/markdown-examples' },
+            { text: 'AndroidStudio', link: '/ide/androidStudio' },
           ]
         }
       ],
@@ -58,7 +58,7 @@ export default defineConfig({
         {
           text: '日記',
           items: [
-            { text: 'Markdown Examples', link: '/markdown-examples' },
+            { text: '2025-11-24', link: '/diary/2025/11/2025-11-24.md' },
           ]
         }
       ],
